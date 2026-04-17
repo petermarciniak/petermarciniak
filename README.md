@@ -145,12 +145,36 @@ Output: Design system documentation
 
 ## ▓▓▓ OPEN SOURCE
 
-Currently exploring:
+<table>
+<tr>
+<td width="50%">
 
-- **Custom Claude Code skills** for design workflows
-- **MCP servers** for Figma automation  
-- **Design system templates** with AI-first documentation
-- **AI workflow tools** for designers transitioning to code
+**[WEB APP STARTER](https://github.com/petermarciniak/starter)**  
+Opinionated React + Vite template
+
+```
+Stack:  React 18 · TypeScript · Tailwind
+        TanStack Query · Zustand · Zod
+Use:    Clone and start building — no
+        setup overhead
+```
+
+</td>
+<td width="50%">
+
+**MORE COMING**  
+Building in public
+
+```
+→ Custom Claude Code skills
+→ MCP servers for Figma automation
+→ Design system templates
+→ AI workflow tools for designers
+```
+
+</td>
+</tr>
+</table>
 
 <br>
 
