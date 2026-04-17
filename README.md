@@ -154,6 +154,42 @@ Currently exploring:
 
 <br>
 
+## ▓▓▓ AI DEMOS
+
+Public demos showing AI integration patterns and design-to-code workflows.
+
+<table>
+<tr>
+<td width="50%">
+
+**[LUMINA — AI JEWELRY ADVISOR](https://github.com/petermarciniak/jewelry-ai-advisor)**  
+E-commerce AI enrichment demo
+
+```
+Stack:  Next.js 15 · Claude · Tailwind
+Flow:   URL → enrich → BG remove →
+        3D model → AI photoshoot
+Live:   jewelry-ai-advisor.vercel.app
+```
+
+</td>
+<td width="50%">
+
+**MORE COMING**  
+Building in public
+
+```
+→ AI design review tool
+→ Component generator from briefs
+→ Design token automation
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
 ## ▓▓▓ STATS
 
 <div align="center">
