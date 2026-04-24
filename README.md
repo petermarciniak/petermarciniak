@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](./assets/header.webp)
+![Header](./assets/header-animated.webp)
 
 </div>
 
