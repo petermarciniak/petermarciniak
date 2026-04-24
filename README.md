@@ -88,7 +88,7 @@ GitHub Actions
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **WOLT**  
 Courier app onboarding experience
@@ -100,21 +100,21 @@ Result: Reduced to 23% drop-off
 ```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **RAKBANK**  
 Complete brand refresh
 
 ```
-Scope: Mobile app, design system,
-       ATM interfaces, website
+Scope:  Mobile app, design system,
+        ATM interfaces, website
 Impact: 200+ components, 15+ teams
 ```
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **BONKBOT (TELEMETRY)**  
 Mobile trading terminal for Solana
@@ -122,18 +122,18 @@ Mobile trading terminal for Solana
 ```
 Platform: Web, mobile, Telegram
 Features: Real-time on-chain analytics
-Domain: Crypto trading UX
+Domain:   Crypto trading UX
 ```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **AGELESS**  
 Design system for healthtech
 
 ```
-Type: Web application
-Focus: Scalable component library
+Type:   Web application
+Focus:  Scalable component library
 Output: Design system documentation
 ```
 
@@ -147,29 +147,28 @@ Output: Design system documentation
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **[WEB APP STARTER](https://github.com/petermarciniak/starter)**  
 Opinionated React + Vite template
 
 ```
-Stack:  React 18 · TypeScript · Tailwind
-        TanStack Query · Zustand · Zod
-Use:    Clone and start building — no
-        setup overhead
+Stack: React 18 · TypeScript · Tailwind
+       TanStack Query · Zustand · Zod
+Use:   Clone and start building
 ```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **[FAVICON GENERATOR](https://github.com/petermarciniak/favicon-generator)**  
 Browser-native favicon toolkit
 
 ```
-Stack:  React 18 · TypeScript · Vite
-        Tailwind · Canvas API · JSZip
-Out:    27 sizes — Web, PWA, iOS, Android
-        100% local — no server uploads
+Stack: React 18 · TypeScript · Vite
+       Tailwind · Canvas API · JSZip
+Out:   27 sizes — Web, PWA, iOS, Android
+       100% local — no server uploads
 ```
 
 </td>
@@ -184,20 +183,20 @@ Public demos showing AI integration patterns and design-to-code workflows.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **[LUMINA — AI JEWELRY ADVISOR](https://github.com/petermarciniak/jewelry-ai-advisor)**  
 E-commerce AI enrichment demo
 
 ```
-Stack:  Next.js 15 · Claude · Tailwind
-Flow:   URL → enrich → BG remove →
-        3D model → AI photoshoot
-Live:   jewelry-ai-advisor.vercel.app
+Stack: Next.js 15 · Claude · Tailwind
+Flow:  URL → enrich → BG remove →
+       3D model → AI photoshoot
+Live:  jewelry-ai-advisor.vercel.app
 ```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **MORE COMING**  
 Building in public
