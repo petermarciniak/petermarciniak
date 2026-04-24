@@ -169,7 +169,7 @@ Browser-native favicon toolkit
 Stack:  React 18 · TypeScript · Vite
         Tailwind · Canvas API · JSZip
 Out:    27 sizes — Web, PWA, iOS, Android
-Privacy: 100% local, no server uploads
+        100% local — no server uploads
 ```
 
 </td>
