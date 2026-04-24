@@ -162,14 +162,14 @@ Use:    Clone and start building — no
 </td>
 <td width="50%">
 
-**MORE COMING**  
-Building in public
+**[FAVICON GENERATOR](https://github.com/petermarciniak/favicon-generator)**  
+Browser-native favicon toolkit
 
 ```
-→ Custom Claude Code skills
-→ MCP servers for Figma automation
-→ Design system templates
-→ AI workflow tools for designers
+Stack:  React 18 · TypeScript · Vite
+        Tailwind · Canvas API · JSZip
+Out:    27 sizes — Web, PWA, iOS, Android
+Privacy: 100% local, no server uploads
 ```
 
 </td>
