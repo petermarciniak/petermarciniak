@@ -90,25 +90,27 @@ GitHub Actions
 <tr>
 <td width="50%" valign="top">
 
-**[WOLT](https://petermarc.com)**  
-Courier app onboarding experience
+**[WOLT](https://petermarc.com/portfolio/wolt)**  
+Multi-model courier onboarding · DoorDash consolidation
 
 ```
-Challenge: 70% drop-off rate
-Solution: Redesigned signup flow
-Result: Reduced to 23% drop-off
+Scope:  4 legal models · 9 countries
+Brief:  Model-aware acquisition flow
+        IC · fleet · employment · temp agency
+Focus:  Compliance-safe routing from entry screen
 ```
 
 </td>
 <td width="50%" valign="top">
 
-**[RAKBANK](https://petermarc.com)**  
-Digital transformation, UAE's largest bank
+**[KLARNA](https://petermarc.com/portfolio/klarna)**  
+Shoppable video · MVP to multi-market
 
 ```
-Scope:  Mobile app, design system,
-        ATM interfaces, website
-Impact: 2,287 components, App Store 3.2→4.6
+CTR:       2.8% → 6.5%   (+132%)
+Checkout:  12%  → 21%    (+75%)
+Retention: 24%  → 39%    (+63%)
+Scale:     US → UK, SE, ES, DE
 ```
 
 </td>
@@ -116,25 +118,27 @@ Impact: 2,287 components, App Store 3.2→4.6
 <tr>
 <td width="50%" valign="top">
 
-**[BONKBOT (TELEMETRY)](https://petermarc.com)**  
-Mobile trading terminal for Solana
+**[RAKBANK MOBILE](https://petermarc.com/portfolio/rakbank-mobile)**  
+Mobile banking redesign · 3 personas · 180K users
 
 ```
-Platform: Web, mobile, Telegram
-Features: Real-time on-chain analytics
-Domain:   Crypto trading UX
+App Store: 3.2 → 4.6
+Tasks:     +34% completion
+Support:   −28% calls
+Team:      Grew design 2→8
 ```
 
 </td>
 <td width="50%" valign="top">
 
-**[AGELESS](https://petermarc.com)**  
-Design system for healthtech
+**[SECTOR ALARM](https://petermarc.com/portfolio/sector-alarm)**  
+One token layer · 7 platforms · Red Dot 2022
 
 ```
-Type:   Web application
-Focus:  Scalable component library
-Output: Design system documentation
+CSAT:  48% → 91%
+Tasks: 2:10 → 55s
+Scope: iOS · Android · Watch ·
+       Wear OS · web · desktop · tablet
 ```
 
 </td>
