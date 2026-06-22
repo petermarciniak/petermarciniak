@@ -90,7 +90,7 @@ GitHub Actions
 <tr>
 <td width="50%" valign="top">
 
-**WOLT**  
+**[WOLT](https://petermarc.com)**  
 Courier app onboarding experience
 
 ```
@@ -102,13 +102,13 @@ Result: Reduced to 23% drop-off
 </td>
 <td width="50%" valign="top">
 
-**RAKBANK**  
-Complete brand refresh
+**[RAKBANK](https://petermarc.com)**  
+Digital transformation, UAE's largest bank
 
 ```
 Scope:  Mobile app, design system,
         ATM interfaces, website
-Impact: 200+ components, 15+ teams
+Impact: 2,287 components, App Store 3.2→4.6
 ```
 
 </td>
@@ -116,7 +116,7 @@ Impact: 200+ components, 15+ teams
 <tr>
 <td width="50%" valign="top">
 
-**BONKBOT (TELEMETRY)**  
+**[BONKBOT (TELEMETRY)](https://petermarc.com)**  
 Mobile trading terminal for Solana
 
 ```
@@ -128,7 +128,7 @@ Domain:   Crypto trading UX
 </td>
 <td width="50%" valign="top">
 
-**AGELESS**  
+**[AGELESS](https://petermarc.com)**  
 Design system for healthtech
 
 ```
@@ -198,6 +198,41 @@ Live:  jewelry-ai-advisor.vercel.app
 </td>
 <td width="50%" valign="top">
 
+**[HOLO CAROUSEL](https://petermarc.com)**  
+Framer code component — holographic card carousel
+
+```
+Tech:  React · TypeScript · CSS blend modes
+       DeviceOrientation API · Vibration API
+FX:    Pokémon-style holo shimmer on card silhouette
+       Accelerometer-driven on mobile
+       Haptic feedback (iOS switch + Android vibrate)
+       3D pointer tilt + idle float animation
+Arch:  Ghost-duplicate infinite scroll (3×5 = 15 DOM nodes)
+       Arc layout, configurable spread + depth
+Built for: petermarc.com (Framer)
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[ICON BURST](https://petermarc.com)**  
+Framer code component — physics icon explosion
+
+```
+Tech:  React · TypeScript · rAF physics loop
+Tap:   Main icon → burst 4–11 secondary icons outward
+FX:    Gravity + rotation, iOS corner-radius auto-match
+       Hover zoom, pop animation on click
+       Icons fly off-screen and self-clean from DOM
+Built for: petermarc.com (Framer)
+```
+
+</td>
+<td width="50%" valign="top">
+
 **MORE COMING**  
 Building in public
 
@@ -243,6 +278,6 @@ Most work is under NDA — this profile showcases tech stack & workflows.
 Portfolio & case studies available at petermarc.com/portfolio
 ```
 
-<sub>Last updated: April 2026</sub>
+<sub>Last updated: June 2026</sub>
 
 </div>
